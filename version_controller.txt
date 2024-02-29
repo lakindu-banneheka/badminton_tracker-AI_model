@@ -1,0 +1,6 @@
+V1 - Trained using small dataset (about 100)
+v2 - Trained using dataset (about 600)
+v3 - Trained using dataset (about 1200)
+v4 - Tranined using dataset about 1200 & with nano model
+v5 - Trained using dataset about 1200 & with roboflow & with yolov8m.pt => had good improvement, detected the shuttlecock in good amount of frames, but there were lot of backgrounds that recognized as the shuttlecock
+v6 - 
